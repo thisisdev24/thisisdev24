@@ -1,8 +1,8 @@
 Hi there 👋
 
-- 🔭 I’m currently working on nothing tbh!
-- 🌱 I’m currently learning Spring framework
-- 💬 Ask me about Git, GitHub, OOP, DSA.
+- 🔭 I’m currently working on Android Development!
+- 🌱 I’m currently learning Kotlin.
+- 💬 Ask me about Git, GitHub, OOP, DSA, DBMS.
 - 📫 How to reach me: imdevkhare@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
